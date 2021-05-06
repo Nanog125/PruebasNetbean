@@ -42,12 +42,12 @@ public class CalculadoraMain {
                 case 2:
                     System.out.println(" la resta es " + casio.resta());
                     break;
-                /*case 3:
+                case 3:
                     System.out.println(" la multipilcacion es " + casio.multiplicacion());
                     break;
-                case 4:
+                /*case 4:
                     System.out.println(" La division es " + casio.division());
-                    break;*/
+                    break;**/
                 default:
                     System.out.println(" Debes elegir una opción de 1 a 5");
             }
